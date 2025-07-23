@@ -187,3 +187,16 @@ body {
 }
 
 /* footer */
+.footer {
+    background: #1F2937;
+    padding: 36px;
+}
+
+.footer p {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+
+    color: #F9FAF8;
+    
+}
